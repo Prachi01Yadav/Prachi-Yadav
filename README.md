@@ -89,17 +89,17 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Your_GitHub_Username]&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Your_GitHub_Username]&theme=radical" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[Prachi01Yadav]&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Prachi01Yadav]&theme=radical" width="48%" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Your_GitHub_Username]&layout=compact&theme=radical&langs_count=6" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Prachi01Yadav]&layout=compact&theme=radical&langs_count=6" width="48%" alt="Top Languages" />
   
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[Your_GitHub_Username]&bg_color=141321&color=fe428e&line=f5e0dc&point=f38ba8&area=true&hide_border=true" width="48%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[Prachi01Yadav]&bg_color=141321&color=fe428e&line=f5e0dc&point=f38ba8&area=true&hide_border=true" width="48%" alt="Activity Graph" />
 </div>
 
 ---
