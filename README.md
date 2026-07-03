@@ -81,7 +81,7 @@
 ## GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[Your_GitHub_Username]&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=[Prachi01Yadav]&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
 </div>
 
 ---
@@ -104,20 +104,7 @@
 
 ---
 
-## 🐍 Contribution Graph (Requires GitHub Action Setup)
 
-<!-- 
-  Note: To enable the snake animation, you need to set up a GitHub Action workflow in your profile repository.
-  Search for "Platane/snk" on GitHub for setup instructions.
--->
-<div align="center">
-  <picture>
-    <!-- Replace these source links with the actual output from your GitHub Action once set up -->
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[Your_GitHub_Username]/[Your_GitHub_Username]/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[Your_GitHub_Username]/[Your_GitHub_Username]/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/[Your_GitHub_Username]/[Your_GitHub_Username]/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 <br/>
 
