@@ -1,11 +1,9 @@
-
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello,%20I'm%20[Prachi01Yadav]&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Open%20Source%20&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello,%20I'm%20Prachi&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Open%20Source&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=[Prachi01Yadav]&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Prachi01Yadav&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
 
 <br/>
@@ -14,9 +12,9 @@
   <!-- Social Links with badges -->
   <a href="https://www.linkedin.com/in/prachiyadav01/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  
+  </a>
 
-  <a href="mailto:[archeyyadav111@gmail.com]">
+  <a href="mailto:archeyyadav111@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
@@ -28,11 +26,10 @@
     <td width="60%">
       <h2>About Me</h2>
       <ul>
-        <li>Currently exploring <b>[AI, Blockchain and Go]</b></li>
-        <li>Looking to collaborate on <b>[Open Source Projects]</b></li>
+        <li>Currently exploring <b>AI, Blockchain and Go</b></li>
+        <li>Looking to collaborate on <b>Open Source Projects</b></li>
       </ul>
     </td>
-  
   </tr>
 </table>
 
@@ -78,10 +75,10 @@
 
 ---
 
-## GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[Prachi01Yadav]&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Prachi01Yadav&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
 </div>
 
 ---
@@ -89,25 +86,23 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[Prachi01Yadav]&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[Prachi01Yadav]&theme=radical" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prachi01Yadav&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prachi01Yadav&theme=radical" width="48%" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[Prachi01Yadav]&layout=compact&theme=radical&langs_count=6" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prachi01Yadav&layout=compact&theme=radical&langs_count=6" width="48%" alt="Top Languages" />
   
   <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[Prachi01Yadav]&bg_color=141321&color=fe428e&line=f5e0dc&point=f38ba8&area=true&hide_border=true" width="48%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prachi01Yadav&bg_color=141321&color=fe428e&line=f5e0dc&point=f38ba8&area=true&hide_border=true" width="48%" alt="Activity Graph" />
 </div>
 
 ---
 
-
-
 <br/>
 
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." Cory House</i>
+  <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
 </div>
