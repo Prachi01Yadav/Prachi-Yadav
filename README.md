@@ -15,10 +15,9 @@
 ```go
 type Developer struct {
     Name       string   // "Prachi Yadav"
-    Role       string   // "B.Tech CSE @ IIIT Agartala"
+    Role       string   // "B.Tech CSE @ IIITA"
     Focus      []string // Distributed Systems, Backend, Applied AI
     Building   []string // Service Meshes, AI Agents, API Gateways
-    OpenSource string   // "Contributor @ Kuadrant Operator (CNCF)"
     Goal       string   // "Build resilient, large-scale systems"
 }
 ```
