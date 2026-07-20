@@ -1,3 +1,30 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a5acd,100:00c2cb&height=160&text=Prachi%20Yadav&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%7C%20Distributed%20Systems%20%26%20AI&descAlignY=68&descSize=18&descColor=f0f0f0" alt="Header" width="100%" />
+</div>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachiyadav01/)
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prachi.ydv1104@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prachi01Yadav)
+
+</div>
+
+<br/>
+
+```go
+type Developer struct {
+    Name       string   // "Prachi Yadav"
+    Role       string   // "B.Tech CSE @ IIIT Agartala"
+    Focus      []string // Distributed Systems, Backend, Applied AI
+    Building   []string // Service Meshes, AI Agents, API Gateways
+    OpenSource string   // "Contributor @ Kuadrant Operator (CNCF)"
+    Goal       string   // "Build resilient, large-scale systems"
+}
+```
+
+---
+
 ## 🚀 About Me
 
 - 🎓 B.Tech in Computer Science @ **Indian Institute of Information Technology, Agartala** (2024 – 2028)
@@ -10,53 +37,44 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 **Languages**
 
-<p>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-</p>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-**Backend, Frameworks & Architecture**
+**Backend & Architecture**
 
-<p>
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/fastapi-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/gin-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Gin" />
-  <img src="https://img.shields.io/badge/grpc-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" alt="gRPC" />
-  <img src="https://img.shields.io/badge/envoy-%23AC6199.svg?style=for-the-badge&logo=envoyproxy&logoColor=white" alt="Envoy Proxy" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-</p>
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat-square&logo=go&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Envoy](https://img.shields.io/badge/Envoy%20Proxy-AC6199?style=flat-square&logo=envoyproxy&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
 **AI / ML**
 
-<p>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
-  <img src="https://img.shields.io/badge/Llama%203.1-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Llama 3.1" />
-  <img src="https://img.shields.io/badge/Anthropic%20Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic Claude API" />
-  <img src="https://img.shields.io/badge/LoRA%20%2F%20GRPO-6E56CF?style=for-the-badge" alt="LoRA / GRPO" />
-</p>
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Llama 3.1](https://img.shields.io/badge/Llama%203.1-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Anthropic Claude API](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![LoRA/GRPO](https://img.shields.io/badge/LoRA%20%2F%20GRPO-6E56CF?style=flat-square)
 
-**Databases, DevOps & Tools**
+**Databases, Cloud & Tools**
 
-<p>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ---
 
@@ -95,7 +113,7 @@ Built for the **Meta × Hugging Face OpenEnv Hackathon** — an AI training envi
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prachi01Yadav&show_icons=true&theme=radical&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
@@ -106,13 +124,7 @@ Built for the **Meta × Hugging Face OpenEnv Hackathon** — an AI training envi
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prachi01Yadav&layout=compact&theme=radical&langs_count=6" width="48%" alt="Top Languages" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prachi01Yadav&bg_color=141321&color=fe428e&line=f5e0dc&point=f38ba8&area=true&hide_border=true" width="48%" alt="Activity Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prachi01Yadav&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Prachi01Yadav&theme=radical&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" width="48%" alt="Trophies" />
 </div>
 
 ---
