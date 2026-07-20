@@ -1,14 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6a5acd,100:00c2cb&height=160&text=Prachi%20Yadav&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Software%20Developer%20%7C%20Distributed%20Systems%20%26%20AI&descAlignY=68&descSize=18&descColor=f0f0f0" alt="Header" width="100%" />
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prachiyadav01/)
-[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prachi.ydv1104@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prachi01Yadav)
-
-</div>
+<div align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello,%20I'm%20Prachi&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Open%20Source&descAlignY=55&descAlign=50" alt="Header" /></div> <div align="center">  <img src="https://komarev.com/ghpvc/?username=Prachi01Yadav&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" /></div>
 
 <br/>
 
