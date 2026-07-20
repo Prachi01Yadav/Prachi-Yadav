@@ -1,19 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi,%20I'm%20Prachi%20Yadav&fontSize=45&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Systems%20%26%20AI%20Enthusiast%20%7C%20Open%20Source&descAlignY=55&descAlign=50" alt="Header" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prachi01Yadav&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/prachiyadav01/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:prachi.ydv1104@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
-<br/>
-
 ## 🚀 About Me
 
 - 🎓 B.Tech in Computer Science @ **Indian Institute of Information Technology, Agartala** (2024 – 2028)
