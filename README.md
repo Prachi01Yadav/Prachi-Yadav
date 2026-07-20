@@ -1,4 +1,4 @@
-<div align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello,%20I'm%20Prachi&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Open%20Source&descAlignY=55&descAlign=50" alt="Header" /></div> <div align="center">  <img src="https://komarev.com/ghpvc/?username=Prachi01Yadav&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" /></div>
+<div align="center">  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello,%20I'm%20Prachi&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20Open%20Source&descAlignY=55&descAlign=50" alt="Header" /></div>
 
 <br/>
 
