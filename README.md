@@ -29,9 +29,7 @@ type Developer struct {
 - 🎓 B.Tech in Computer Science @ **Indian Institute of Information Technology, Agartala** (2024 – 2028)
 - 🛰️ I build **distributed systems, backend infrastructure, and AI-driven applications** — from service meshes to fine-tuned LLM agents
 - 🌱 Currently exploring **AI, Blockchain, and Go**
-- 🤝 Open source contributor at **Kuadrant Operator (CNCF)** — working on Kubernetes-native API gateways
 - 🎯 **Aspiring to build large-scale, resilient systems** that sit at the intersection of distributed infrastructure and applied AI, and to keep growing as an open-source maintainer
-- 🏆 Competitive programmer — LeetCode Knight (1850+), Codeforces Pupil (1300+), 1000+ problems solved
 - 💬 Looking to collaborate on **open source infrastructure and AI tooling projects**
 
 ---
@@ -97,10 +95,7 @@ Built for the **Meta × Hugging Face OpenEnv Hackathon** — an AI training envi
 
 - 🏆 **Finalist — Meta × Hugging Face OpenEnv Hackathon (2026):** Top 800 out of 60,000+ teams
 - 🥈 **Finalist — AtomQuest Hackathon '26:** Top 10 nationwide, presented the solution at Atomberg Technologies HQ, Pune
-- 💼 **PayPal Career Academy 2.0:** 1 of 48 scholars nationwide, mentored by PayPal in the global payments space
-- 🎓 **AlgoUniversity Scholar:** 1 of 200 selected from 100,000+ applicants for advanced DSA & CP mentorship
-- 🌟 **Amazon Future Engineer Scholar:** 1 of 400 selected nationally for a ₹40k grant and professional development
-- 💻 **Competitive Programming:** LeetCode Knight (1850+) · Codeforces Pupil (1300+) · AtCoder 7 Kyu · 1000+ problems solved
+
 
 ---
 
